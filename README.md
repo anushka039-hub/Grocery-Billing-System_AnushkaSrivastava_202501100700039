@@ -10,11 +10,19 @@ The system accepts prices of 3 items and applies a 10% discount if the total exc
 - Display original total, discount, and final payable amount
 
 ## Sample Output
-- Enter the price of item 1: 15
-- Enter the price of item 2: 20
-- Enter the price of item 3: 35
-- GROCERY BILL :- 
-- (Discount is applicable only if the total amount exceeds 50$)
-- Orignal total cost: $ 70
-- Discount: $ 7.0
-- Final total amount after discount: $ 63.0
+Enter the price of item 1: 15
+
+Enter the price of item 2: 20
+
+Enter the price of item 3: 35
+
+
+GROCERY BILL :- 
+
+(Discount is applicable only if the total amount exceeds 50$)
+
+Orignal total cost: $ 70
+
+Discount: $ 7.0
+
+Final total amount after discount: $ 63.0
